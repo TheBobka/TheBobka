@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBobka
 - 👀 I’m interested in sports
-- 🌱 I’m currently learning how to code (The Odin Project)
+- 🌱 I’m currently learning how to code
 - 📫 How to reach me @matbobka
 
 
